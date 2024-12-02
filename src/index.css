@@ -1,0 +1,15 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.res {
+    /* direction: rtl; */
+    margin-bottom: 200px;
+}
+
+/* .res pre,
+.res code {
+    direction: ltr;
+} */
